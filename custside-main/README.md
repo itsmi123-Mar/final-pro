@@ -1,2 +1,0 @@
-# custside
-customer side
